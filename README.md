@@ -1,2 +1,5 @@
-# ace-king22.github.io
-Aalhad Deshpande — mechanical engineering, materialsplanning and manufacturing portfolio.
+# Aalhad Deshpande
+
+Professional portfolio covering mechanical engineering, materials planning and manufacturing experience.
+
+Website: https://ace-king22.github.io/
